@@ -1,6 +1,6 @@
 ## Usage
 
-1. Import the csv to mongodb using following header:
+1. [Import the csv](https://riptutorial.com/mongodb/example/21736/mongoimport-with-csv) to mongodb using following header:
    ```csv
    "cpf","name","birthDate","street","number","complement","neighborhood","cep","city","state","mothersName"
    ```
