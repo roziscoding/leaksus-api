@@ -15,6 +15,6 @@
 
 ## Heroku
 
-TO deploy this to Heroku (without the database), click the button bellow :D
+To deploy this to Heroku (just the API; the database is on you), click the button bellow :D
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
