@@ -1,0 +1,21 @@
+{
+  "name": "LeakSUS API",
+  "description": "A simple API to query the leaked SUS database",
+  "repository": "https://github.com/rjmunhoz/leaksus-api",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_SUS.svg",
+  "keywords": ["node", "express", "sus", "leak", "api"],
+  "env": {
+    "MONGODB_URI": {
+      "description": "Full mongodb URI",
+      "required": true
+    },
+    "MONGODB_DBNAME": {
+      "description": "The name of the db which the data was imported to",
+      "value": "sus"
+    },
+    "MONGODB_COLLECTION_NAME": {
+      "description": "Name of the collection which the data was imported to",
+      "value": "cadastros"
+    }
+  }
+}

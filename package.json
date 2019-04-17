@@ -1,0 +1,24 @@
+{
+  "name": "api-leaksus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "develop": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@expresso/app": "^1.0.5",
+    "@expresso/errors": "^1.1.1",
+    "@expresso/server": "^1.1.3",
+    "@expresso/validator": "^1.0.4",
+    "express-rescue": "^1.1.20",
+    "mongodb": "^3.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
