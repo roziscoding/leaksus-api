@@ -14,3 +14,7 @@
 > If you want to change field names, don't forget to change them throughout the code, or you won't be able to apply filters
 
 ## Heroku
+
+TO deploy this to Heroku (without the database), click the button bellow :D
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
