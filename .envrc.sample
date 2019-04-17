@@ -1,0 +1,3 @@
+export MONGODB_URI=mongodb://localhost/sus
+export MONGODB_DBNAME=sus
+export MONGODB_COLLECTION_NAME=cadastros
